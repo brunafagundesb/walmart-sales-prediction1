@@ -52,4 +52,4 @@ Gráfico que destaca quais fatores foram mais determinantes para o aprendizado d
 
 1. Clone o repositório:
 ```bash
-   git clone [https://github.com/brunafagundesb/walmart-sales-prediction1.git](https://github.com/brunafagundesb/walmart-sales-prediction1.git)
+git clone [https://github.com/brunafagundesb/walmart-sales-prediction1.git](https://github.com/brunafagundesb/walmart-sales-prediction1.git)
