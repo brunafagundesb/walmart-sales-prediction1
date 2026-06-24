@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+venv/
+ENV/
+
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos do Mac (já que você está no MacBook)
+.DS_Store
