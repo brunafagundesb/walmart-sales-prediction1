@@ -9,4 +9,4 @@ __pycache__/
 *$py.class
 
 # Arquivos do Mac (já que você está no MacBook)
-.DS_Store
+.DS_Store.vscode/

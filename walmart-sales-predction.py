@@ -19,7 +19,7 @@ df["Date"] =pd.to_datetime(
 df['Year']= df['Date'].dt.year
 df['Month']= df['Date'].dt.month
 df['Week']= df['Date'].dt.isocalendar().week
-
+sppik
 #Histograma das vendas
 plt.hist (df['Weekly_Sales'],
         bins=30,
